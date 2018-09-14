@@ -1,7 +1,7 @@
 /**
  * 
  * @author jovanne li
- *
+ * Variables HW
  */
 public class VariablesHW 
 {
@@ -19,8 +19,9 @@ public class VariablesHW
 	 double pi=3.14;
 	 double circlearea=pi*radius*radius;
 	 System.out.println(circlearea);
-		
-
-	}
+	 
+	 int diameter=8;
+	 double circumference=pi*diameter;
+	 System.out.println(circumference);}
 
 }
